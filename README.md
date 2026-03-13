@@ -50,7 +50,7 @@ npm install
 **2. Configurar o ambiente:**
 Crie um ficheiro .env na raiz com:
 ```bash
-Snippet de códigoPORT=3000
+PORT=3000
 ```
 **3. Executar o servidor:**
 ```bash
