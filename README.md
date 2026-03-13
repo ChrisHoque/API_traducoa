@@ -1,6 +1,6 @@
 # 🌍 API de Tradução Universal (Express.js)
 
-Esta é uma API robusta desenvolvida em **Node.js** com o framework **Express.js** que atua como um middleware inteligente para o serviço de tradução **MyMemory**. O projeto foi desenhado seguindo as melhores práticas de arquitetura modular (MVC) e tratamento de erros para uma defesa de fim de curso.
+Esta é uma API robusta desenvolvida em **Node.js** com o framework **Express.js** que atua como um middleware inteligente para o serviço de tradução **MyMemory**. O projeto foi desenhado seguindo as melhores práticas de arquitetura modular (MVC) e tratamento e erros.
 
 ## 🚀 Funcionalidades
 - Tradução de textos entre mais de 140 idiomas.
